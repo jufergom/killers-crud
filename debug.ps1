@@ -1,0 +1,2 @@
+javac KillersCrud.java Menu.java Option.java OptionsSource.java Killer.java IdGenerator.java KillerNotFoundException.java Repository.java RepositoryImpl.java KillerService.java KillerServiceImpl.java
+java KillersCrud
